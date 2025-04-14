@@ -21,4 +21,5 @@ For my sixth project at Hive Helsinki, I created a basic 2D game using MiniLibX!
 Before the game starts, the program validates the map to make sure there’s a way to collect all items and reach the exit. 🚪 If not, it throws an error! ⚠️
 
 This project was an awesome mix of graphics, file handling, and pathfinding—plus, I got to make my very own game! 🎉
-My favorite project so far, loved to create something visual ! 🎨
+
+## My favorite project so far, loved to create something visual ! 🎨
